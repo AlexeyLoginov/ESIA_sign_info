@@ -2,6 +2,7 @@
  ============================================================================
  Name:        esia_sign_info.cpp
  Author:      Aleksej Loginov
+ E-mail:      lav.loginov@gmail.com
  Created:     06/02/2026
  Version:     1.0.0
  License:     MIT
